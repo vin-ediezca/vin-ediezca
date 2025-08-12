@@ -10,6 +10,7 @@ I'm a Backend/DevOps Engineer and a Cybersecurity Enthusiast
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge)
 ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 ## My THM Profile
